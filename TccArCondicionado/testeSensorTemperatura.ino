@@ -15,6 +15,6 @@ void loop()
   }//3 
   else 
   {//4
-     Serial.println("----");
+     Serial.println("------");
   }//4
-}//2
+}//2 
